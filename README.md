@@ -1,4 +1,4 @@
-# Millennium × WICC Coinbase Sentiment Analysis Project
+# Millennium Management × WICC Coinbase Sentiment Analysis Project
 
 This repository contains my contributions to the **Coinbase Sentiment Analysis** project, conducted in collaboration with Millennium engineers through Women in Computing at Cornell (WICC).  
 The work was presented to Millennium’s engineering team as part of our final showcase.
